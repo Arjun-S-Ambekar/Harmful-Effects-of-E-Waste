@@ -1,0 +1,145 @@
+body {
+  padding-top: 50px;
+  text-align: center;
+  background: cover;
+}
+
+.profile {
+  width: 175px;
+  margin-bottom: 50px;
+  border-radius: 50%;
+}
+
+#welcome {
+  overflow: hidden;
+  height: 800px;
+  color: aquamarine;
+  opacity: 0.83;
+  background-color: navy;
+  z-index: 9px;   
+  width: 100%;
+  height: 100%;
+}
+
+.parallax-inner {
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 1.2;
+  font-family: cursive;
+  font-weight: 300;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 300;
+  line-height: 1.2;
+  font-family: monospace
+}
+
+#bio {
+  padding: 50px;
+  text-align: center;
+  font-size: 42px;
+}
+
+.line {
+  height: 6px;
+  background-color: #000;
+  width: 70px;
+  margin: 8px auto;
+}
+
+p {
+  max-width: 450px;
+  margin: 25px auto;
+  font-size: 17px;
+  line-height: 1.3;
+}
+
+.my_nav_bar {
+  position: sticky;
+  top: 0px;
+  z-index: 99999;
+}
+.link {
+  color: white;
+  padding-left: 33px;
+  padding-right: 25px;
+  font-family: fantasy;
+  font-size: 25px;
+  display: inline;
+  margin-top: 0px;
+}
+
+.link:hover {
+  text-decoration: underline;
+  font-size: 30;
+  background-color: cyan;
+}
+
+html {
+  scroll-behavior: smooth
+}
+
+.home-pic {
+  height: 600px;
+}
+.para {
+  width: 100%;
+  height: 205px;
+  background-color: rgb(69, 181, 246);
+  color: black;
+  border-radius: 15px;
+  padding: 5px;
+  float: center;
+
+}
+
+.para_2 {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(69, 181, 246);
+  color: black;
+  border-radius: 15px;
+  padding: 5px;
+  float: center;
+
+}
+.para_3 {
+  width: 100%;
+  height: 130px;
+  background-color: rgb(69, 181, 246);
+  color: black;
+  border-radius: 15px;
+  padding: 5px;
+  float: center;
+
+}
+
+.home-pic {
+  height: 580px;
+}
+
+.para_6 {
+  width: 100%;
+  height: 110px;
+  background-color: rgb(69, 181, 246);
+  color: black;
+  border-radius: 15px;
+  padding: 5px;
+  float: center;
+
+}
+
+.hh {
+  width: 100%;
+  height: 40px;
+  font-size: 18px;
+  cursor: default;
+}
+ 
